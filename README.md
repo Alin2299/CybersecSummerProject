@@ -1,7 +1,6 @@
 ### **What does this repository contain?:**
 This repository contains the graphs and scripts that I produced/were used during my Summer Research Project over the 2023-2024 summer break.
-Other files/folders (E.g sample data) are stored locally on my machine.
-
+Other files/folders (E.g sample data) are stored locally on my machine.    
 
 
 ### **Some brief information about the project:**
@@ -10,10 +9,9 @@ It involved analysing network security in New Zealand and Australia using intern
 
 For more information about the project, see the file **"researchprojectabstract.pdf"** located in the repository.
 
-The poster (which was a major deliverable) produced at the end of the programme/project can be viewed below:
+The poster (which was a major deliverable) produced at the end of the programme/project can be viewed below:  
 
-![Summer Research Project Poster!](summerresearchposter.png "Cybersecurity Summer Research Poster")
-
+![Summer Research Project Poster!](summerresearchposter.png "Cybersecurity Summer Research Poster")    
 
 
 ### **DISCLAIMER/NOTE:**
